@@ -1,0 +1,43 @@
+#d1{
+    background-color: darkslategrey;
+}
+#h3{
+    display : inline;
+    text-align: left;
+    color:antiquewhite;
+    border-radius:12px;
+}
+#i1{
+    width : 100%;
+}
+#b1{
+    float : right;
+    background-color: aquamarine;
+    border-radius: 6px;
+}
+#b2{
+    background-color: gold;
+    border-radius: 6px;  
+    font-size: 22px;
+}
+#h3-1{
+    background-color: gold;
+    border-radius: 6px;  
+    font-size: 22px;
+}
+.modal-dialog{
+    width : 90%;
+}
+.instruction-image{
+    display: inline-block;
+    width : 45%;
+}
+ video{
+    background : url("game_console.png");
+    background-position: center;
+    background-size: cover;
+    padding:25px;
+ }
+ #h42{
+    background-color: grey;
+ }
